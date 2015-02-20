@@ -12,10 +12,10 @@ Execute like below:
 
 `node extractloc.js /pict/dir/ > result.json`
 
-However, the json file is not complete, as you have to delete the last "," and add a "]".
+However, as the code is not complete yet, the resulting json file is incomplete. You have to delete the last "," and add a "]".
 
 ## Prerequisite
-npm install imagemagick
-npm install recursive-readdir
-npm install search-osm-geocode
+npm install imagemagick  
+npm install recursive-readdir  
+npm install search-osm-geocode  
 
